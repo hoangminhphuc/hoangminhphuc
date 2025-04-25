@@ -14,13 +14,42 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <a href="https://golang.org" target="_blank"> 
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="42px"/> 
+</a>  
+<a href="https://www.python.org" target="_blank">
+  <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a> 
+<a href="https://isocpp.org" target="_blank"> 
+  <img align="left" alt="C++" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+  <img align="left" alt="HTML" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left" alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</a> 
+<a href="https://reactjs.org/" target="_blank"> 
+  <img align="left" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</a> 
+<a href="https://www.mysql.com/" target="_blank"> 
+  <img align="left" alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+</a> 
+<a href="https://code.visualstudio.com/" target="_blank"> 
+  <img align="left" alt="VSCode" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+</a> 
+<a href="https://www.postman.com/" target="_blank"> 
+  <img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
+</a> 
+<a href="https://www.jetbrains.com/go/" target="_blank"> 
+  <img align="left" alt="GoLand" height="42px" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png"> 
+</a> 
+<a href="https://www.docker.com/" target="_blank"> 
+  <img align="left" alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
+</a> 
+<a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
+</a>
 </p>
 
 
