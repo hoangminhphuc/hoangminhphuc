@@ -34,7 +34,10 @@
 </a> 
 <a href="https://www.mysql.com/" target="_blank"> 
   <img align="left" alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-</a> 
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" align="left" alt="Redis" height="42px" />
+</a>
 <a href="https://code.visualstudio.com/" target="_blank"> 
   <img align="left" alt="VSCode" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
 </a> 
