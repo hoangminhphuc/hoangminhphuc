@@ -1,13 +1,17 @@
 ## Hi there, I'm Hoang Minh Phuc ! 👋
 
 
-- 🎓 I’m a third-year Computer Science undergraduate at the **University of Engineering and Technology (UET)**.  
-- 🌱 Specialized in **Golang backend development**, focusing on scalable web applications.  
-- 🔭 Exploring **React** to enhance my frontend development skills.  
-- 🎯 **2025 Goals**: Deepen my expertise in backend architecture, and refine my frontend skills.  
-- 🚀 Passionate about building backend systems and continuously learning new technologies.
+- 🎓 I’m a third-year Computer Science undergraduate at the **University of Engineering and Technology (UET)**.
+- 🌱 I’m currently deepening my understanding of backend development using **Golang**.
+- 🔭 Exploring **React** to enhance frontend development skills alongside **Python** for school projects is another goal of mine.  
+- 🎯 **2025 Goals**: Focus on my expertise in backend architecture, and refine my frontend skills. Exploring cloud computing (AWS, GCP) for scalable deployments.
+- 🚀 Check out my public projects and drop a comment — your feedback fuels my growth!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhphuc&show_icons=true&theme=graywhite&rank_icon=github)
+My resume: [CV_HoangMinhPhuc](https://drive.google.com/file/d/1E1aSypWOXS3FsowgPryMrO60ktLTxRdp/view?usp=sharing)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhphuc&show_icons=true&theme=graywhite&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhphuc&hide_progress=true)
 
