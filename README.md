@@ -9,7 +9,7 @@
 
 My resume: [CV_HoangMinhPhuc](https://drive.google.com/file/d/1E1aSypWOXS3FsowgPryMrO60ktLTxRdp/view?usp=sharing)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hoangminhphuc/hoangminhphuc/main/coding.gif" width="360px"/>
 
 ![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhphuc&show_icons=true&theme=graywhite&rank_icon=github)
 
