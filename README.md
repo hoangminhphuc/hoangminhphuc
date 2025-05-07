@@ -1,6 +1,8 @@
 ## Hi there, I'm Hoang Minh Phuc ! 👋
 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hoangminhphuc/hoangminhphuc/main/coding.gif" width="360px"/>
+
 - 🎓 I’m a third-year Computer Science undergraduate at the **University of Engineering and Technology (UET)**.
 - 🌱 I’m currently deepening my understanding of backend development using **Golang**.
 - 🔭 Exploring **React** to enhance frontend development skills alongside **Python** for school projects is another goal of mine.  
@@ -9,7 +11,6 @@
 
 My resume: [CV_HoangMinhPhuc](https://drive.google.com/file/d/1E1aSypWOXS3FsowgPryMrO60ktLTxRdp/view?usp=sharing)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hoangminhphuc/hoangminhphuc/main/coding.gif" width="360px"/>
 
 ![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhphuc&show_icons=true&theme=graywhite&rank_icon=github)
 
